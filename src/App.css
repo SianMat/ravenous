@@ -7,3 +7,14 @@
 .text-orange {
   color: goldenrod;
 }
+
+.btn-primary {
+  background-color: goldenrod !important;
+  border: none !important;
+}
+
+.underline {
+  border-bottom: black solid 2px;
+  height: 0;
+  margin-bottom: 2rem;
+}
